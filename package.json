@@ -1,0 +1,23 @@
+{
+  "name": "cli_rpg_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedAli3011/CLI_RPG_Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedAli3011/CLI_RPG_Game/issues"
+  },
+  "homepage": "https://github.com/AhmedAli3011/CLI_RPG_Game#readme",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^12.3.3"
+  }
+}
